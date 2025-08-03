@@ -1,2 +1,2 @@
 # numberplatedetectionproject
-a number plate detection application using yolo and ocr
+a yolo application to detect vehicles an extract the number plate details
