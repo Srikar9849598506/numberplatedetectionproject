@@ -14,7 +14,7 @@ st.set_page_config(page_title="Vehicle Detection", layout="centered")
 # Load model and OCR
 @st.cache_resource
 def load_model():
-    return YOLO("yolov8n.pt")
+    return YOLO("yolov8n")
 
 @st.cache_resource
 def load_ocr():
